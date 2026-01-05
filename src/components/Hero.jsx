@@ -27,7 +27,7 @@ const Hero = () => {
 
                     <div className="flex flex-wrap gap-4 items-center">
                         {/* CV Download - placeholder link */}
-                        <a href="/public/Resume Porosh (1).pdf" download
+                        <a href="/Resume-Porosh.pdf" download
                         className="px-5 py-3 bg-blue-600 rounded-lg font-semibold flex items-center gap-2 hover:bg-blue-700 transition">
                             <span>Download CV</span>
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="w-5 h-5">
